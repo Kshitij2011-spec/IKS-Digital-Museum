@@ -1,0 +1,6 @@
+{
+  "name": "Indian Knowledge Systems - Digital Museum",
+  "description": "A digital museum landing page showcasing Indian Knowledge Systems across science, mathematics, medicine, astronomy, and architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
